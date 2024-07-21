@@ -5,6 +5,6 @@ The code include:
 2. Ablation Study code.
 3. Classification for SVM, CNN
 4. The experiments outcome might be having a little difference based on different hyperparameter settings. 
-5.  datasets via Google drive: https://drive.google.com/drive/folders/16dQvwMvMFDnzwdQrtRxeyIOoeAC820Yu?usp=drive_link
+5.  Un2013 hyperspectral image datasets via Google drive: https://drive.google.com/drive/folders/16dQvwMvMFDnzwdQrtRxeyIOoeAC820Yu?usp=drive_link
 6.  Contact: judyyang2017@gmail.com
       
